@@ -4,7 +4,7 @@ The purpose of this code is to get statistics on the purchase frequency for groc
 
 Inspired on https://blog.smile.io/how-to-calculate-purchase-frequency.
 
-To learn the background behind this code, please refer to my [blog post](https://dev.to/javiermendonca/how-i-hacked-the-way-i-do-groceries-1m0a).
+To learn the background behind this code, please refer to my blog post [How I hacked the way I do groceries](https://dev.to/javiermendonca/how-i-hacked-the-way-i-do-groceries-1m0a).
 
 ## Preparing the data
 
